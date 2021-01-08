@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          뉴로!
+          뉴로짱!
         </a>
       </header>
     </div>
